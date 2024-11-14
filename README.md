@@ -1,5 +1,5 @@
 # IDCrossNER: An Indonesian specific-domain NER dataset
-This dataset is adapted from English CrossNER that covers five different domains: science, politics, music, literature, and artificial intelligence (AI).
+This dataset is an adapted cross-domain NER dataset in the Indonesian language that covers five different domains: science, politics, music, literature, and artificial intelligence (AI). We translated and projected an English cross-domain NER dataset, CrossNER (https://github.com/zliucr/CrossNER), to the Indonesian language and performed manual corrections to ensure the dataset consistency and reliability.
 
 Entity list of each domain and the number of sentences in each split (train/dev/test) are described below.
 - Politics (9): country, election, event, location, organization, person, political party, politician, and misc. (200/541/651)
